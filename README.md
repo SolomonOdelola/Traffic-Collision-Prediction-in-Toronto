@@ -12,6 +12,9 @@ The outline contains the tentative steps of how the data was prepreprocessed and
 - Build Model
 - Evaluate the Model
 
+Click this [link](https://nbviewer.org/github/SolomonOdelola/Traffic-Collision-Prediction-in-Toronto/blob/main/Traffic%20Collision%20Outcome%20Prediction%20-%20Solomon%20Odelola%20-%20501141994.ipynb)  to view the 
+[code](https://nbviewer.org/github/SolomonOdelola/Traffic-Collision-Prediction-in-Toronto/blob/main/Traffic%20Collision%20Outcome%20Prediction%20-%20Solomon%20Odelola%20-%20501141994.ipynb)
+
 ## Repository directory
 - Model.ipynb
 - KSI DATA.csv
